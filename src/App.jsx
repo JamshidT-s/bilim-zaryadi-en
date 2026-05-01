@@ -10,7 +10,7 @@ import {
 } from "firebase/firestore";
 
 // ─── 1. TILNI TANLASH (Rus tili: "ru", Ingliz tili: "en") ───────────────
-const LANG = "ru"; 
+const LANG = "en"; 
 // ─────────────────────────────────────────────────────────────────────
 
 const DICTIONARY = {
