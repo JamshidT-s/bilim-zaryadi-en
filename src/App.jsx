@@ -11,7 +11,7 @@ import {
 
 // ─── TILNI TANLASH (Shu yerni o'zgartirasiz) ─────────────────────────
 // Rus tili uchun "ru" deb yozing. Ingliz tili uchun "en" deb yozing.
-const LANG = "ru"; 
+const LANG = "en"; 
 // ─────────────────────────────────────────────────────────────────────
 
 const DICTIONARY = {
